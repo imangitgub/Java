@@ -9,7 +9,7 @@ public class NewlineHelloworld {
 		// TODO Auto-generated method stub
 		
 		
-		System.out.println("Iman");
+		System.out.print("Iman");
 		System.out.println("partovi");
 		
 		

@@ -1,19 +1,18 @@
+package String;
 
-public class shortjava {
+public class stringCharDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		
-		
-	short student=10000;	
-		
-		
+		String s="welcome";
+		System.out.println(s.charAt(3));
 		
 		
 		
 		
-		System.out.println("Student="+student);
+		
+		
 
 	}
 
